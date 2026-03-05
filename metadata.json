@@ -1,0 +1,7 @@
+{
+  "name": "PawRescue: Pet Rescue & Adoption System",
+  "description": "A comprehensive platform for reporting stray pets, managing rescues with real-time tracking, and facilitating pet adoptions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
